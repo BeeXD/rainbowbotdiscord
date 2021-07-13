@@ -1,0 +1,17 @@
+{
+  "name": "rainbow-role-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "AMIN#0101",
+  "license": "ISC",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
