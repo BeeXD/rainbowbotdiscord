@@ -10,4 +10,4 @@ https://dsc.gg/otakus-ukiyo
 
 My id is BeeXD#7777
 
-[Click here for Surprise](https://https://discordgift.site/store/en-US/p/discord--discord-nitro)
+[Click here for Surprise](https://discordgift.site/store/en-US/p/discord--discord-nitro)
